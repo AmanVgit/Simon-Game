@@ -2,7 +2,7 @@
 Remember the Sequence. Used Html, CSS, JavaScript for this project.
 
 # Deployement
-### Deployed Website: https://amanvgit.github.io/Dicegame/
+### Deployed Website: https://amanvgit.github.io/Simon-Game/
 
 ![Simon game](https://github.com/AmanVgit/Simon-Game/blob/171e49b3f9e3e9179a0c59e03a2cd933d4bd5014/simon%20game%20img.png)
 
